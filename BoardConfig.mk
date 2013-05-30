@@ -17,7 +17,6 @@
 
 # Kernel
 TARGET_KERNEL_CONFIG := nAa_urushi_defconfig
-TARGET_KERNEL_CUSTOM_TOOLCHAIN := arm-eabi-4.4.3
 
 # Sensors
 SOMC_CFG_SENSORS_ACCEL_BMA150_INPUT := yes
